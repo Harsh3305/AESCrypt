@@ -1,0 +1,3 @@
+include ':AESCrypt'
+include ':app'
+rootProject.name = "AESCryptExample"
